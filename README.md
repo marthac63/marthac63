@@ -1,4 +1,4 @@
-# Oh Hello There! :wave: It's Martha :four_leaf_clover: :information_desk_person:
+# Oh Hello There! :wave: I'm Martha :four_leaf_clover: :information_desk_person:
 
 
 * 📚 Data Analytics Bootcamp Student (Very soon to be graduate! 🥳 ([Juno College](https://github.com/HackerYou))<br>
