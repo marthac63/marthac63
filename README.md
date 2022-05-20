@@ -1,7 +1,7 @@
 # Oh Hello There! :wave: I'm Martha :four_leaf_clover: :information_desk_person:
 
 
-* 📚 Data Analytics Bootcamp Student (Very soon to be graduate! 🥳 ([Juno College](https://github.com/HackerYou))<br>
+* 📚 Data Analytics Bootcamp Graduate! 🥳 ([Juno College](https://github.com/HackerYou))<br>
 * 💪🏻 Strengths: Communication, Strong Attention To Detail, Leadership, Creativity <br>
 * 👩‍💼 Background in Hospitality Management <br>
 * 📫 How To Reach Me: <a href="mailto:marthacleary6314@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/martha-cleary/"/><img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
